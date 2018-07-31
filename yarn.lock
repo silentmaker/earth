@@ -1735,11 +1735,11 @@ combined-stream@1.0.6, combined-stream@~1.0.5:
   dependencies:
     delayed-stream "~1.0.0"
 
-commander@2.15.1:
+commander@2.15.1, commander@^2.13.0:
   version "2.15.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
 
-commander@2.16.x, commander@^2.13.0, commander@~2.16.0:
+commander@2.16.x, commander@~2.16.0:
   version "2.16.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.16.0.tgz#f16390593996ceb4f3eeb020b31d78528f7f8a50"
 
@@ -6253,6 +6253,10 @@ thread-loader@^1.1.5:
     async "^2.3.0"
     loader-runner "^2.3.0"
     loader-utils "^1.1.0"
+
+three@^0.94.0:
+  version "0.94.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.94.0.tgz#4ce6db7f2bfbf79c2d73444aa6e3cfc08a32d762"
 
 through2@^2.0.0:
   version "2.0.3"
